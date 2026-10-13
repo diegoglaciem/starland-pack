@@ -1,6 +1,23 @@
 {
   "news": [
     {
+      "id": "n-mv6nkfnr",
+      "tag": "NUEVO",
+      "accent": "#f0c600",
+      "title": "¡El nuevo jefe de mundo ha llegado!",
+      "date": "2026-10-13",
+      "body": [
+        "# EL NUEVO JEFE DE MUNDO HA LLEGADO",
+        "- Krom · el destructor",
+        "",
+        "¡Reunete con tus compañeros y derrotalo para recibir recompensas de nivel alto!",
+        "",
+        "# NOTAS",
+        "Lo recomendado para vencer al nuevo jefe de mundo es contar minimo con nivel 70"
+      ],
+      "image": "https://raw.githubusercontent.com/diegoglaciem/starland-pack/main/news-img/df5b29c181304875.webp"
+    },
+    {
       "id": "v1",
       "featured": true,
       "tag": "Actualización",
@@ -32,6 +49,26 @@
       ]
     },
     {
+      "id": "n2",
+      "tag": "Aviso",
+      "accent": "#d0507a",
+      "title": "Mantenimiento programado",
+      "date": "2026-10-05",
+      "body": [
+        "El servidor se reiniciará brevemente para aplicar actualizaciones."
+      ]
+    },
+    {
+      "id": "n3",
+      "tag": "Comunidad",
+      "accent": "#3f9a36",
+      "title": "Concurso de construcciones",
+      "date": "2026-09-29",
+      "body": [
+        "Muestra tu mejor construcción y gana un rango especial."
+      ]
+    },
+    {
       "id": "n1",
       "tag": "Notas de versión",
       "accent": "#2fb4c4",
@@ -44,26 +81,6 @@
         "- Errores corregidos",
         "# Corrección de errores",
         "- Se corrigió el error que ocasionaba la duplicación de diamantes al matar un esqueleto."
-      ]
-    },
-    {
-      "id": "n2",
-      "tag": "Aviso",
-      "accent": "#e08a2f",
-      "title": "Mantenimiento programado",
-      "date": "2026-10-05",
-      "body": [
-        "El servidor se reiniciará brevemente para aplicar actualizaciones."
-      ]
-    },
-    {
-      "id": "n3",
-      "tag": "Comunidad",
-      "accent": "#d0507a",
-      "title": "Concurso de construcciones",
-      "date": "2026-09-29",
-      "body": [
-        "Muestra tu mejor construcción y gana un rango especial."
       ]
     },
     {
