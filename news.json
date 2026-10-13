@@ -1,0 +1,71 @@
+{
+  "news": [
+    {
+      "id": "v1",
+      "featured": true,
+      "tag": "Actualización",
+      "accent": "#3f9a36",
+      "title": "Starland · Nueva temporada ya disponible",
+      "date": "2026-10-12",
+      "summary": "Nuevos mods, mundo renovado y recompensas de temporada.",
+      "body": [
+        "# Novedades",
+        "- Mundo renovado con nuevos biomas",
+        "- Nuevos mods añadidos al pack",
+        "- Recompensas exclusivas de temporada",
+        "# Notas",
+        "El launcher descarga todo automáticamente al pulsar Jugar."
+      ],
+      "link": ""
+    },
+    {
+      "id": "ev1",
+      "featured": true,
+      "tag": "Evento",
+      "accent": "#7a4fd0",
+      "title": "Evento de fin de semana: caza del tesoro",
+      "date": "2026-10-10",
+      "summary": "Participa y gana premios en el servidor.",
+      "body": "Este sábado a las 8 PM comienza el evento.\n- Premios para los 3 primeros lugares\n- Entra con tu nick habitual"
+    },
+    {
+      "id": "n1",
+      "tag": "Notas de versión",
+      "accent": "#2fb4c4",
+      "title": "Notas de la versión actual",
+      "date": "2026-10-08",
+      "body": [
+        "# Cambios",
+        "- Correcciones de rendimiento",
+        "- Ajustes de balance",
+        "- Errores corregidos",
+        "# Corrección de errores",
+        "- Se corrigió el error que ocasionaba la duplicación de diamantes al matar un esqueleto."
+      ]
+    },
+    {
+      "id": "n2",
+      "tag": "Aviso",
+      "accent": "#e08a2f",
+      "title": "Mantenimiento programado",
+      "date": "2026-10-05",
+      "body": "El servidor se reiniciará brevemente para aplicar actualizaciones."
+    },
+    {
+      "id": "n3",
+      "tag": "Comunidad",
+      "accent": "#d0507a",
+      "title": "Concurso de construcciones",
+      "date": "2026-09-29",
+      "body": "Muestra tu mejor construcción y gana un rango especial."
+    },
+    {
+      "id": "n4",
+      "tag": "Mods",
+      "accent": "#4f8fd0",
+      "title": "Nuevos mods en el modpack",
+      "date": "2026-09-20",
+      "body": "Se agregaron mods nuevos. Se instalan solos al abrir el juego."
+    }
+  ]
+}
