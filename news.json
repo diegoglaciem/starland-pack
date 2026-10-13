@@ -6,17 +6,16 @@
       "tag": "Actualización",
       "accent": "#3f9a36",
       "title": "Starland · Nueva temporada ya disponible",
-      "date": "2026-10-12",
-      "summary": "Nuevos mods, mundo renovado y recompensas de temporada.",
+      "date": "2026-10-13",
+      "summary": "Explora un mundo nuevo lleno de aventuras.",
       "body": [
         "# Novedades",
         "- Mundo renovado con nuevos biomas",
-        "- Nuevos mods añadidos al pack",
+        "- Nuevos mods añadidos",
         "- Recompensas exclusivas de temporada",
-        "# Notas",
-        "El launcher descarga todo automáticamente al pulsar Jugar."
+        "# Consulta las notas de la versión actual para mas detalles"
       ],
-      "link": ""
+      "image": "https://xboxwire.thesourcemediaassets.com/sites/4/15YR_Free_Cape-1-7cbcb0739e3df57534ec-9063efed017354d1b1c3.jpg"
     },
     {
       "id": "ev1",
@@ -26,7 +25,11 @@
       "title": "Evento de fin de semana: caza del tesoro",
       "date": "2026-10-10",
       "summary": "Participa y gana premios en el servidor.",
-      "body": "Este sábado a las 8 PM comienza el evento.\n- Premios para los 3 primeros lugares\n- Entra con tu nick habitual"
+      "body": [
+        "Este sábado a las 8 PM comienza el evento.",
+        "- Premios para los 3 primeros lugares",
+        "- Entra con tu nick habitual"
+      ]
     },
     {
       "id": "n1",
@@ -49,7 +52,9 @@
       "accent": "#e08a2f",
       "title": "Mantenimiento programado",
       "date": "2026-10-05",
-      "body": "El servidor se reiniciará brevemente para aplicar actualizaciones."
+      "body": [
+        "El servidor se reiniciará brevemente para aplicar actualizaciones."
+      ]
     },
     {
       "id": "n3",
@@ -57,7 +62,9 @@
       "accent": "#d0507a",
       "title": "Concurso de construcciones",
       "date": "2026-09-29",
-      "body": "Muestra tu mejor construcción y gana un rango especial."
+      "body": [
+        "Muestra tu mejor construcción y gana un rango especial."
+      ]
     },
     {
       "id": "n4",
@@ -65,7 +72,9 @@
       "accent": "#4f8fd0",
       "title": "Nuevos mods en el modpack",
       "date": "2026-09-20",
-      "body": "Se agregaron mods nuevos. Se instalan solos al abrir el juego."
+      "body": [
+        "Se agregaron mods nuevos. Se instalan solos al abrir el juego."
+      ]
     }
   ]
 }
