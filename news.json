@@ -69,19 +69,22 @@
       ]
     },
     {
-      "id": "n1",
+      "id": "n1.1",
       "tag": "Notas de versión",
       "accent": "#2fb4c4",
-      "title": "Notas de la versión actual",
+      "title": "Notas de la versión 1.1",
       "date": "2026-10-08",
       "body": [
+        "# NOVEDADES",
+        "- Krom el destructor",
         "# Cambios",
         "- Correcciones de rendimiento",
         "- Ajustes de balance",
         "- Errores corregidos",
         "# Corrección de errores",
         "- Se corrigió el error que ocasionaba la duplicación de diamantes al matar un esqueleto."
-      ]
+      ],
+      "image": "https://raw.githubusercontent.com/diegoglaciem/starland-pack/main/news-img/6bf86f919db9dc06.webp"
     },
     {
       "id": "n4",
