@@ -1,113 +1,29 @@
 {
   "news": [
     {
-      "id": "n-mv7kebwq",
-      "featured": true,
-      "tag": "Noticia",
-      "accent": "#2fb4c4",
-      "title": "¡Jaypee Administrador del mes!",
-      "date": "2026-10-13",
-      "summary": "¡Gracias por tu fuerte dedicación y esfuerzo!",
+      "id": "n-mv7tuviz",
+      "tag": "Aviso",
+      "accent": "#aa0000",
+      "title": "Servidor en desarrollo",
+      "date": "2026-10-14",
       "body": [
-        "¿Que esperas para felicitar a nuestro administrador del mes?"
-      ],
-      "image": "https://raw.githubusercontent.com/diegoglaciem/starland-pack/main/news-img/15eb5ee120490eeb.webp"
-    },
-    {
-      "id": "n-mv6nkfnr",
-      "tag": "NUEVO",
-      "accent": "#f0c600",
-      "title": "¡El nuevo jefe de mundo ha llegado!",
-      "date": "2026-10-13",
-      "body": [
-        "# EL NUEVO JEFE DE MUNDO HA LLEGADO",
-        "- Krom · el destructor",
+        "El servidor se encuentra en desarrollo en este momento.",
         "",
-        "¡Reunete con tus compañeros y derrotalo para recibir recompensas de nivel alto!",
-        "",
-        "# NOTAS",
-        "Lo recomendado para vencer al nuevo jefe de mundo es contar minimo con nivel 70"
-      ],
-      "image": "https://raw.githubusercontent.com/diegoglaciem/starland-pack/main/news-img/df5b29c181304875.webp"
+        "Vuelve mas tarde"
+      ]
     },
     {
       "id": "v1",
       "featured": true,
-      "tag": "Actualización",
-      "accent": "#3f9a36",
-      "title": "Starland · Nueva temporada ya disponible",
+      "tag": "ACCESO ANTICIPADO",
+      "accent": "#7a4fd0",
+      "title": "STARLAND · PRE-ALPHA",
       "date": "2026-10-13",
-      "summary": "Explora un mundo nuevo lleno de aventuras.",
+      "summary": "El servidor se encuentra en desarrollo",
       "body": [
-        "# Novedades",
-        "- Mundo renovado con nuevos biomas",
-        "- Nuevos mods añadidos",
-        "- Recompensas exclusivas de temporada",
-        "# Consulta las notas de la versión actual para mas detalles"
+        "El servidor esta desarrollandose en este momento, muy pronto estará disponible para su acceso."
       ],
       "image": "https://media.discordapp.net/attachments/1054609722566782989/1559535621943332894/Untitled.png?ex=6acf6e3b&is=6ace1cbb&hm=9c21f52b6a4a2d489cbaefe5d8b74005ef200563a8f81c7acddfc0feab2fd335&=&format=webp&quality=lossless&width=768&height=433"
-    },
-    {
-      "id": "ev1",
-      "featured": true,
-      "tag": "Evento",
-      "accent": "#7a4fd0",
-      "title": "Evento de fin de semana: caza del tesoro",
-      "date": "2026-10-10",
-      "summary": "Participa y gana premios en el servidor.",
-      "body": [
-        "Este sábado a las 8 PM comienza el evento.",
-        "- Premios para los 3 primeros lugares",
-        "- Entra con tu nick habitual"
-      ]
-    },
-    {
-      "id": "n2",
-      "tag": "Aviso",
-      "accent": "#d0507a",
-      "title": "Mantenimiento programado",
-      "date": "2026-10-05",
-      "body": [
-        "El servidor se reiniciará brevemente para aplicar actualizaciones."
-      ]
-    },
-    {
-      "id": "n3",
-      "tag": "Comunidad",
-      "accent": "#3f9a36",
-      "title": "Concurso de construcciones",
-      "date": "2026-09-29",
-      "body": [
-        "Muestra tu mejor construcción y gana un rango especial."
-      ]
-    },
-    {
-      "id": "n1.1",
-      "tag": "Notas de versión",
-      "accent": "#2fb4c4",
-      "title": "Notas de la versión 1.1",
-      "date": "2026-10-08",
-      "body": [
-        "# NOVEDADES",
-        "- Krom el destructor",
-        "# Cambios",
-        "- Correcciones de rendimiento",
-        "- Ajustes de balance",
-        "- Errores corregidos",
-        "# Corrección de errores",
-        "- Se corrigió el error que ocasionaba la duplicación de diamantes al matar un esqueleto."
-      ],
-      "image": "https://raw.githubusercontent.com/diegoglaciem/starland-pack/main/news-img/6bf86f919db9dc06.webp"
-    },
-    {
-      "id": "n4",
-      "tag": "Mods",
-      "accent": "#4f8fd0",
-      "title": "Nuevos mods en el modpack",
-      "date": "2026-09-20",
-      "body": [
-        "Se agregaron mods nuevos. Se instalan solos al abrir el juego."
-      ]
     }
   ]
 }
