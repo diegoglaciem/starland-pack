@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "id": "n-mv7kebwq",
+      "featured": true,
+      "tag": "Noticia",
+      "accent": "#2fb4c4",
+      "title": "¡Jaypee Administrador del mes!",
+      "date": "2026-10-13",
+      "summary": "¡Gracias por tu fuerte dedicación y esfuerzo!",
+      "body": [
+        "¿Que esperas para felicitar a nuestro administrador del mes?"
+      ],
+      "image": "https://raw.githubusercontent.com/diegoglaciem/starland-pack/main/news-img/15eb5ee120490eeb.webp"
+    },
+    {
       "id": "n-mv6nkfnr",
       "tag": "NUEVO",
       "accent": "#f0c600",
